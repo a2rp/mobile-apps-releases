@@ -13,6 +13,15 @@ A simple React Native Expo application created to test Android APK building and 
 - Status: Available
 - Developer: Ashish Ranjan
 
+### Unit Converter
+
+A free and offline Android utility for quick and accurate everyday unit conversions.
+
+- Version: 1.0.0
+- Platform: Android
+- Status: Available
+- Developer: Ashish Ranjan
+
 APK downloads are available from the Releases section of this repository.
 
 ## Developer
